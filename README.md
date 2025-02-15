@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tamim Ahmed</h1>
+<h1 align="center">Hi, I'm Tamim Ahmed👋</h1>
 <h3 align="center">I am exploring Machine Learning world and doing competitive programming</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7hjDRcPkoJ_THV3j0uMP73B3nzUk20bXjQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-ahmed-15&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-ahmed-15" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,Front End Developing**
 
-- 💬 Ask me about **ML,DSA**
+- 💬 Ask me about **Python,ML,DSA**
 
 - 📫 How to reach me **tamimahmed621108@gmail.com**
 
